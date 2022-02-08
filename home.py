@@ -13,3 +13,4 @@ h=f//i
 print(h)
 s=f%i
 print(s)
+
